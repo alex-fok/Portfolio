@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import './index.css';
 
-const PortfolioContainer = () => {
+const MoreContainer = () => {
   return (
     <Fragment>
       <ModalWrapper title='General Info'>
@@ -76,4 +76,4 @@ const PortfolioContainer = () => {
   )
 }
 
-export default PortfolioContainer;
+export default MoreContainer;

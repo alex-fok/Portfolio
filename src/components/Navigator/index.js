@@ -10,7 +10,7 @@ const Navigator = () => {
           <Nav.Link href='/home'>About Me</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link href='/portfolio'>Portfolio</Nav.Link>
+          <Nav.Link href='/more'>More</Nav.Link>
         </Nav.Item>
         </Nav>
     </Navbar>
