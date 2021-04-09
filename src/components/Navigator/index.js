@@ -7,10 +7,10 @@ const Navigator = () => {
       <Navbar.Brand>Alex Fok</Navbar.Brand>
         <Nav className='mr-auto'>
         <Nav.Item>
-          <Nav.Link href='/home'>About Me</Nav.Link>
+          <Nav.Link href='/Portfolio/home'>About Me</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link href='/more'>More</Nav.Link>
+          <Nav.Link href='/Portfolio/more'>More</Nav.Link>
         </Nav.Item>
         </Nav>
     </Navbar>
