@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/AboutMe/index.css","webpack://src/components/MoreContainer/index.css"],"names":[],"mappings":"AAAA,IACI,eAAgB,CAChB,gBAAiB,CCDjB,UAAW,CACX,WDCJ","file":"main.385e8302.chunk.css","sourcesContent":["img {\r\n    max-width: 200px;\r\n    max-height: 200px;\r\n}","img {\r\n    width: 100%;\r\n    height: 100%;\r\n}"]}
