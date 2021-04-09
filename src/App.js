@@ -6,13 +6,13 @@ import Navigator from './components/Navigator';
 
 function App() {
   return (
-    <Router basename='Portfolio'>
+    <Router basename='/Portfolio'>
       <div>
         <Navigator />
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/home" component={Home} />
-          <Route path="/more" component={More} />
+          <Route exact path="/home" component={Home} />
+          <Route exact path="/more" component={More} />
         </Switch>
       </div>
     </Router>
